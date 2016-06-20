@@ -1,0 +1,23 @@
+{
+  "name": "videojs-persistvolume",
+  "version": "0.1.4",
+  "description": "A plugin for Video.js that saves user's volume setting using localStorage, but falls back to cookies if necessary.",
+  "main": "videojs.persistvolume.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guardian/videojs-persistvolume.git"
+  },
+  "keywords": [
+    "video",
+    "videojs",
+    "volume"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guardian/videojs-persistvolume/issues"
+  },
+  "homepage": "https://github.com/guardian/videojs-persistvolume#readme"
+}
