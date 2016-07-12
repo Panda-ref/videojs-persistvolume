@@ -2,7 +2,7 @@
  (function (root, factory) {
   if (typeof define === 'function' && define.amd) {
     // AMD. Register as an anonymous module unless amdModuleId is set
-    define('videojs-persistvolume', ["videojs"], function (a0) {
+    define('videojs-persistvolume', ["video.js"], function (a0) {
       return (factory(window, document, a0));
     });
   } else if (typeof exports === 'object') {
